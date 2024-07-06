@@ -1,0 +1,39 @@
+﻿A. Giới thiệu tính năng Bí Tịch
+
+Bí Tịch là trang bị sẽ đeo trên người giúp tăng chỉ số.
+
+Điểm Bí Tịch : Sử dụng trong các tính năng Mở Chỉ Số Bí Tịch, Đổi Sách Luyện Bí Tịch
+
+Điểm Bí Tịch nhận được bằng việc tiêu diệt quái ở map Rừng Chết có tỉ lệ nhận được 1 điểm hoặc đánh bại Boss Ma Vương Picolo nhận 250 ~ 300 điểm 
+
+B. Boss Ma Vuong Picolo
+
+Boss Ma Vương Picolo có khả năng đặc biệt là tự tái tạo bản thân khi bị nhận sát thương ( Tức là khi bạn gây sát thương boss có tỉ lệ hồi HP bằng số sát thương bạn gây ra )
+
+Khi đánh bại Boss Ma Vương Picolo bạn sẽ nhận được Bí Tịch ( Bí Tịch có số lần luyện từ 3 ~ 10 lần ). Số lần luyện càng caoo thì Bí Tịch càng ngon. Số lần luyện phục vụ cho tính năng Luyện Bí Tịch
+
+C. Tính Năng Mở Chỉ Số Bí Tịch
+
+Khi sở hữu bí tịch bạn sẽ cần mở chỉ số để gia tăng sức mạnh. Gặp NPC Bà Hạt Mít tại Rừng Chết để tiến hành Mở chỉ số.
+
+Khi mở chỉ số cần có 300 điểm Bí Tịch và bạn sẽ nhận ngẫu nhiên các chỉ số từ 1% ~ 10% : Sức đánh, HP, KI, Sức đánh chí mạng, TNSM
+
+
+D. Tính Năng Đổi Sách Luyện Bí Tịch
+
+Đổi Sách Luyện Bí Tịch sẽ cần 250 điểm bí tịch
+
+
+E. Tính Năng Luyện Bí Tịch
+
+Điều kiện để Luyện Bí Tịch : Bạn cần có Sách Luyện Bí Tịch + Bí Tịch còn số lần luyện
+
+Khi Luyện sẽ mất 1 Sách Luyện và tăng ngẫu nhiên từ 30 ~ 50 điểm luyện. Khi đạt đủ 1000 điểm luyện thì Bí Tịch sẽ thăng cấp.
+
+Thăng cấp sẽ giúp Bí Tịch tăng ngẫu nhiên 1% ~ 2% chỉ số mở ở trên của Bí Tịch.
+
+
+Ký bút Admin barcoll...
+_______________________________
+ 
+Chúc anh em chơi game vui vẻ !

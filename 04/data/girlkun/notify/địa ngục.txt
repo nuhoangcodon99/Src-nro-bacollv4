@@ -1,0 +1,3 @@
+public boolean isMapDiaNguc(int mapId) {
+        return mapId >= 197 && mapId <= 203;
+    }

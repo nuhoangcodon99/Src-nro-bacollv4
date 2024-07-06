@@ -1,0 +1,21 @@
+﻿A. Giới thiệu tính năng Xuất Sư
+
+Điều kiện xuất sư : Khi đệ tử đạt 200 tỷ sức mạnh sẽ đủ điều kiện để Xuất Sư
+
+NPC Xuất Sư : Khi đủ điều kiện xuất sư gặp NPC Quy Lão ở Đảo Kame để tiến hành Xuất Sư
+
+Xuất Sư đệ tử sẽ biến mất, nên trước khi Xuất Sư hãy tháo toàn bộ trang bị đệ tử đang mặc. Khi Xuất Sư bạn sẽ nhận được 1 "Chứng Nhận Xuất Sư".
+
+B. Giới thiệu tính năng Ép Chứng Nhận Xuất Sư
+
+Gặp NPC Bà Hạt Mít ở các Vách Núi rồi chọn Ép Chứng Nhận Xuất Sư
+
+Điều kiện ép Chứng Nhận Xuất Sư : Cần có 1 Bông Tai Cấp 2 + 1 Chứng Nhận Xuất Sư
+
+Chứng Nhận Xuất Sư dùng để ép vào bông tai cấp 2 sẽ tăng 1% SD,HP,KI ( tối đa ép được 30 Chứng nhận tương đương với 30% SD,HP,KI )
+
+
+Ký bút Admin barcoll...
+_______________________________
+ 
+Chúc anh em chơi game vui vẻ !
